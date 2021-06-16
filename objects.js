@@ -1,5 +1,5 @@
 var playlist = {jimmyBuffet: 'Margaritaville'};
-function (playlist, 'johnMayer: Daughters')
+function updateplaylist (playlist, 'johnMayer: Daughters')
 
 
 
