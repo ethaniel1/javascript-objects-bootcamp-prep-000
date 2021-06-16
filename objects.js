@@ -1,4 +1,5 @@
-var playlist = {JimmyBuffet: 'Margaritaville'}
-const artist = {JohnMayer, 'Daugthers'
-function updatePlaylist (playlist, JohnMayer, 'Daughters')
+var playlist = {JimmyBuffet: 'Margaritaville'};
+
+playlist.JimmyBuffet = ["Margaritaville, "Fins"];
+
 
