@@ -3,7 +3,7 @@ var playlist = {
 }
 
 function updatePlaylist (playlist, artist, song) {
-playlist[Mayer] = Daughters 
+playlist[artist] = Daughters 
 return playlist }
 
 
