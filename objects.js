@@ -1,3 +1,3 @@
-var playlist = {artistName: 'songTitle'}
+var playlist = {JimmyBuffet: 'Margaritaville'}
 
-function updatePlaylist (playlist, 'JohnMayer', 'Daughters')
+function updatePlaylist (playlist, JohnMayer, 'Daughters')
