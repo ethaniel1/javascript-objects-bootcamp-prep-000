@@ -1,6 +1,6 @@
 var playlist = {
   'jimmy Buffet': 'Margaritaville'
-  'john Mayer': Daughters
+  'john Mayer': 'Daughters'
 }
 
 function updatePlaylist (playlist, artist, song) 
