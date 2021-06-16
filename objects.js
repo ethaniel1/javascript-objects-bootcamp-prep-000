@@ -3,10 +3,10 @@ var playlist = {
 }
 
 function updatePlaylist (playlist, artist, song) {
-playlist[artist] = Daughters 
+playlist[artist] = song 
 return playlist }
 
-
+function removeFromPlaylist
 
 
 
