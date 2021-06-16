@@ -1,4 +1,4 @@
 var playlist = {JimmyBuffet: 'Margaritaville'}
-const artist
-
+const artist = {JohnMayer, 'Daugthers'
 function updatePlaylist (playlist, JohnMayer, 'Daughters')
+
