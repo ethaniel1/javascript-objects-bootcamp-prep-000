@@ -1,4 +1,5 @@
-var playlist = {JimmyBuffet: 'Margaritaville'};
+var playlist = {jimmyBuffet: 'Margaritaville'};
+function (playlist, 'johnMayer: Daughters')
 
 
 
